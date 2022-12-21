@@ -1,2 +1,2 @@
 # Projeto-Login
-Neste site você poderá apreciar ums dos meus projetos favoritos que consiste em uma tela de login totalmente responsiva. 
+On this site you can enjoy one of my favorite projects that consists of a fully responsive login screen.
